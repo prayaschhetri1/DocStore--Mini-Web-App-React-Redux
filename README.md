@@ -4,7 +4,7 @@
 
 ### Some Demo Pictures :
 
-< src="https://github.com/prayaschhetri1/portfolio-pictures/blob/master/Screenshot%20(169).png?raw=true" alt="pateint-list"/>
-< src="https://github.com/prayaschhetri1/portfolio-pictures/blob/master/Screenshot%20(170).png?raw=true" alt="pateint-list"/>
-< src="https://github.com/prayaschhetri1/portfolio-pictures/blob/master/Screenshot%20(171).png?raw=true" alt="pateint-list"/>
-< src="https://github.com/prayaschhetri1/portfolio-pictures/blob/master/Screenshot%20(172).png?raw=true" alt="pateint-list"/>
+<img src="https://github.com/prayaschhetri1/portfolio-pictures/blob/master/Screenshot%20(169).png?raw=true" alt="pateint-list"/>
+<img src="https://github.com/prayaschhetri1/portfolio-pictures/blob/master/Screenshot%20(170).png?raw=true" alt="pateint-list"/>
+<img src="https://github.com/prayaschhetri1/portfolio-pictures/blob/master/Screenshot%20(171).png?raw=true" alt="pateint-list"/>
+<img src="https://github.com/prayaschhetri1/portfolio-pictures/blob/master/Screenshot%20(172).png?raw=true" alt="pateint-list"/>
